@@ -1,6 +1,6 @@
 # Langlisto Auto Focus
 
-Tiny Chrome extension for [app.langlisto.com](https://app.langlisto.com). No build step, no deps, just vibes.
+Tiny Firefox extension for [app.langlisto.com](https://app.langlisto.com). No build step, no deps, just vibes.
 
 - answered it right? next input gets focus automatically
 - messed up? it yanks you back to the wrong one so you can fix it fast
@@ -8,9 +8,7 @@ Tiny Chrome extension for [app.langlisto.com](https://app.langlisto.com). No bui
 
 ## Install
 
-1. Open `chrome://extensions` and flip on **Developer mode**
-2. Click **Load unpacked** and point it at this folder
-3. go grind some exercises, done
+Go to [extention](https://addons.mozilla.org/en-US/firefox/addon/langlisto-auto-focus/) page and install it!
 
 ## What's inside
 
