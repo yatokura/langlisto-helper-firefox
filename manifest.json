@@ -1,19 +1,21 @@
 {
   "manifest_version": 3,
   "name": "Langlisto Auto Focus",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "icons": {
-    "16": "icons/boar.png",
-    "32": "icons/boar.png",
-    "48": "icons/boar.png",
-    "128": "icons/boar.png"
+    "16": "icons/icon-16.png",
+    "32": "icons/icon-32.png",
+    "48": "icons/icon-48.png",
+    "128": "icons/icon-128.png"
   },
   "browser_specific_settings": {
     "gecko": {
       "id": "langlisto-autofocus@yatokura",
-      "strict_min_version": "109.0",
+      "strict_min_version": "140.0",
       "data_collection_permissions": {
-        "required": ["none"]
+        "required": [
+          "none"
+        ]
       }
     }
   },
